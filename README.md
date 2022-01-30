@@ -1,3 +1,3 @@
-# bootstrap-blog
+# Bootstrap-Blog
 A website blog made from just Bootstrap framework.
-# https://utkarsh-dixit-git.github.io/bootstrap-blog/
+## https://utkarsh-dixit-git.github.io/bootstrap-blog/
